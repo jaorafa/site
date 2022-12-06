@@ -881,9 +881,8 @@ raio da borda :  50 % ;
 	cor :  #ffffff ; _
 	margem superior :  -8 px ;
 	margem esquerda :  -8 px ;
-	alinhamento de texto : centro;
-}
-. overlay-container : hover . sobreposição {
+	alinhamento de texto : centro;}
+. overlay-container : hover . sobreposição{
 	opacidade :  1 ;
 	filtro :  alfa (opacidade=100);
 	-webkit-transform :  escala ( 1 );
